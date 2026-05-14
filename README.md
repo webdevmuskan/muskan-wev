@@ -1,2 +1,2 @@
-# muskan-wev
-This is my first repository.
+# muskan-web
+This is my first Git repository.
